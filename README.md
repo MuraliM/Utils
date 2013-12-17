@@ -11,3 +11,8 @@ http://www.troyhunt.com/2011/11/owasp-top-10-for-net-developers-part-9.html
 <h5>ASP.NET session hijacking with Google and ELMAH</h5>
 
 http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html
+
+
+<h6>ScottMichell: Customizing ELMAH’s Error Emails</h6>
+
+http://scottonwriting.net/sowblog/archive/2011/01/06/customizing-elmah-s-error-emails.aspx
