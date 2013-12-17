@@ -1,0 +1,3 @@
+Object Dumper
+
+http://stackoverflow.com/questions/1347375/c-sharp-object-dumper
