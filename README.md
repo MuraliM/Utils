@@ -1,4 +1,2 @@
-Utils
-=====
 
-All the reference links
+<h3>Serving Dynamic Content with HTTP Handlers</h3>
