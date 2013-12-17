@@ -7,3 +7,7 @@ http://msdn.microsoft.com/en-us/library/ms972953.aspx
 <h5>OWASP Top 10 for .NET developers part 9: Insufficient Transport Layer Protection </h5>
 
 http://www.troyhunt.com/2011/11/owasp-top-10-for-net-developers-part-9.html
+
+<h5>ASP.NET session hijacking with Google and ELMAH</h5>
+
+http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html
