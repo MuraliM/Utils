@@ -6,3 +6,8 @@ http://stackoverflow.com/questions/1347375/c-sharp-object-dumper
 Custom ASP.NET MVC 404 Error Page
 
 http://stackoverflow.com/questions/553922/custom-asp-net-mvc-404-error-page
+
+How to get ELMAH to work with ASP.NET MVC [HandleError] attribute?
+
+http://stackoverflow.com/questions/766610/how-to-get-elmah-to-work-with-asp-net-mvc-handleerror-attribute/
+
