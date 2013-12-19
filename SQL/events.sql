@@ -1,4 +1,4 @@
-USE [W2SSLN]
+
 GO
 /****** Object:  ForeignKey [FK__Applicati__Perso__3A81B327]    Script Date: 12/16/2013 16:47:58 ******/
 IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK__Applicati__Perso__3A81B327]') AND parent_object_id = OBJECT_ID(N'[dbo].[ApplicationUser]'))
