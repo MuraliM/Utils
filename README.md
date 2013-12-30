@@ -18,7 +18,10 @@ http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html
 http://scottonwriting.net/sowblog/archive/2011/01/06/customizing-elmah-s-error-emails.aspx
 
 
-<h2>ASP.Net MVC</h2>
+<h2>ASP.Net MVC & Web API</h2>
 
 <h6>ASP.NET MVC 4, Web API and StructureMap</h6>
 http://www.webadvanced.com/blog/asp.net-mvc-4-web-api-and-structuremap
+
+<h6>External Authentication Services </h6>
+http://www.asp.net/web-api/overview/security/external-authentication-services
