@@ -25,3 +25,7 @@ http://www.webadvanced.com/blog/asp.net-mvc-4-web-api-and-structuremap
 
 <h6>External Authentication Services </h6>
 http://www.asp.net/web-api/overview/security/external-authentication-services
+
+<h6>Decoupling ASP.Net.Identity</h6>
+
+http://stackoverflow.com/questions/18727317/decoupling-microsoft-aspnet-identity
