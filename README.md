@@ -30,5 +30,7 @@ http://www.asp.net/web-api/overview/security/external-authentication-services
 
 http://stackoverflow.com/questions/18727317/decoupling-microsoft-aspnet-identity
 
+http://odetocode.com/blogs/scott/archive/2013/11/25/asp-net-core-identity.aspx
+
 <h6>The good, the bad and the ugly of ASP.NET Identity</h6>
 http://brockallen.com/2013/10/20/the-good-the-bad-and-the-ugly-of-asp-net-identity/
