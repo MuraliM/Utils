@@ -17,6 +17,8 @@ http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html
 
 http://scottonwriting.net/sowblog/archive/2011/01/06/customizing-elmah-s-error-emails.aspx
 
+<h6> Visual Studio 2010, Emmet Zen Code HTML plugin </h6>
+http://dotnet.dzone.com/articles/overview-zen-coding-visual
 
 <h2>ASP.Net MVC & Web API</h2>
 
