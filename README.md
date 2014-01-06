@@ -1,3 +1,9 @@
+
+<h2>C# & Design </h2>
+
+<h2> Singleton by JON Skeet </h2>
+http://csharpindepth.com/articles/general/singleton.aspx
+
 <h2>ASP.Net</h2>
 
 <h5>Serving Dynamic Content with HTTP Handlers</h5>
