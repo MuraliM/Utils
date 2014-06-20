@@ -1,0 +1,31 @@
+Step 1:
+
+ Add this in web.config
+ 
+  <appSettings>
+    <add key="pingUrl" value="here ism portal login page url"/>
+  </appSettings>
+  
+Step 2: In Global.asax.cs
+
+Add namespaces in top
+using System.Net;
+using System.Configuration;
+
+Then add the below method
+
+      void Application_End(object sender, EventArgs e)
+        {
+            try
+            {
+                string pingUrl = ConfigurationManager.AppSettings["pingUrl"];
+                WebClient http = new WebClient();
+                string Result = http.DownloadString(pingUrl);
+            }
+            catch (Exception ex)
+            {
+                string Message = ex.Message;
+            }
+        }
+        
+Build and deploy to server and see monday morning it is automatically sending mail
